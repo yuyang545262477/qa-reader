@@ -1,0 +1,19 @@
+{
+  "name": "QA 阅读器",
+  "short_name": "QA 阅读",
+  "description": "逐张滑动阅读学习问答",
+  "lang": "zh-CN",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#f4f1ea",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
